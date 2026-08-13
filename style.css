@@ -74,7 +74,7 @@ button{
      cursor: pointer;
 }
 .image:hover{
-     background-image: url(/cutcake.jpg);
+     background-image: url(./cutcake.jpg);
      width: 499px;
      height: 400px;
 }
